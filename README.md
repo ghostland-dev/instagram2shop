@@ -30,6 +30,18 @@ Other scripts:
 - `npm run build`: next build
 - `npm run lint`: next lint
 
+## Deploy
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fghostland-dev%2Finstagram2shop)
+
+Click the button to deploy your own copy on Vercel in one step.
+
+Set these environment variables in the Vercel project settings (see `.env.example`):
+
+- `SHOPIFY_API_KEY`
+- `SHOPIFY_API_SECRET`
+- `SHOPIFY_WEBHOOK_SECRET`
+
 ## Author
 
 **Ismail.M**, Software Engineer & DevOps
